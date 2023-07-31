@@ -1,0 +1,17 @@
+{
+  "name": "v14-prefix-modarasyon-botu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lourexe",
+  "license": "ISC",
+  "dependencies": {
+    "croxydb": "^0.0.7",
+    "discord.js": "^14.11.0",
+    "isgd": "^1.1.3",
+    "ms": "^2.1.3"
+  }
+}
